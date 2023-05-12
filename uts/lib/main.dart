@@ -140,7 +140,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           Text(
-                            'Adidas Wresting Shoes',
+                            'Adidas Wrestling Shoes',
                             style: TextStyle(
                               fontSize: 20,
                               fontWeight: FontWeight.w500,
